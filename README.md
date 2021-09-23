@@ -5,11 +5,11 @@
 - Deleting Layers
 
 ### Working with Layers in Timeline
-- - Rename a Layer
-- - Lock a layer
-- - Show and Hide a Layer
-- - Stacking Layers
-- - Adding Guide Layers
+ - Rename a Layer
+ - Lock a layer
+ - Show and Hide a Layer
+ - Stacking Layers
+ - Adding Guide Layers
 
 ## Symbols and instances
 - Creating a symbol
